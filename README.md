@@ -34,7 +34,7 @@ Adjuntamos maquetas para que las utilice como guía, pero esto no significa que 
 
 Utilizar las siguentes dependencias:
 
-1.- Navigación (react-native-navigation) https://github.com/wix/react-native-navigation
+1.- Navegación (react-native-navigation) https://github.com/wix/react-native-navigation
 
 2.- Redux
 
